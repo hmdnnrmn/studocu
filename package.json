@@ -1,0 +1,16 @@
+{
+  "name": "studocu-unlock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "studocu-unlock.user.js",
+  "scripts": {
+    "test": "node test/run.mjs",
+    "test:live": "node test/live-run2.mjs",
+    "probe": "node test/probe-extract.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "private": true
+}

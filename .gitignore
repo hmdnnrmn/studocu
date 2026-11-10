@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Test output & screenshots
+test/real-*.png
+test/*.tmp
+
+# OS / logs
+*.log
+.DS_Store
+Thumbs.db
+
+# Agent rules
+AGENTS.md
